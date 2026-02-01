@@ -1,0 +1,121 @@
+n,k,psi,p,blb,algorithm,time_exceeded,band_le_k,time_ms
+40,34,37,0.9376420363319065,33,Varona HBR,true,,
+40,34,37,0.9376420363319065,33,Del Corso–Manzini,false,false,0.296583
+40,34,37,0.9376420363319065,33,Caprara–Salazar-González,false,false,7.222291
+40,34,35,0.9170233465911248,30,Varona HBR,true,,
+40,34,35,0.9170233465911248,30,Del Corso–Manzini,false,false,0.597208
+40,34,35,0.9170233465911248,30,Caprara–Salazar-González,false,false,14.275791
+40,34,37,0.924765262207337,32,Varona HBR,true,,
+40,34,37,0.924765262207337,32,Del Corso–Manzini,false,false,0.453916
+40,34,37,0.924765262207337,32,Caprara–Salazar-González,false,false,10.785125
+40,34,36,0.8738522246302179,29,Varona HBR,true,,
+40,34,36,0.8738522246302179,29,Del Corso–Manzini,false,false,1.272083
+40,34,36,0.8738522246302179,29,Caprara–Salazar-González,false,false,36.350625
+40,34,37,0.8548187455171075,28,Varona HBR,true,,
+40,34,37,0.8548187455171075,28,Del Corso–Manzini,false,false,1.226875
+40,34,37,0.8548187455171075,28,Caprara–Salazar-González,false,false,38.130542
+40,36,38,0.9437863386888168,34,Varona HBR,false,false,124.842209
+40,36,38,0.9437863386888168,34,Del Corso–Manzini,false,false,0.484167
+40,36,38,0.9437863386888168,34,Caprara–Salazar-González,false,false,9.267625
+40,36,37,0.9452781429039885,34,Varona HBR,false,false,127.378666
+40,36,37,0.9452781429039885,34,Del Corso–Manzini,false,false,0.5285
+40,36,37,0.9452781429039885,34,Caprara–Salazar-González,false,false,13.828417
+40,36,39,0.9490594404815857,35,Varona HBR,false,false,126.465709
+40,36,39,0.9490594404815857,35,Del Corso–Manzini,false,false,0.404584
+40,36,39,0.9490594404815857,35,Caprara–Salazar-González,false,false,7.023167
+40,36,39,0.9449304946452938,35,Varona HBR,false,false,126.197334
+40,36,39,0.9449304946452938,35,Del Corso–Manzini,false,false,0.408208
+40,36,39,0.9449304946452938,35,Caprara–Salazar-González,false,false,10.406542
+40,36,39,0.9231958738544909,33,Varona HBR,false,false,132.398834
+40,36,39,0.9231958738544909,33,Del Corso–Manzini,false,false,0.734917
+40,36,39,0.9231958738544909,33,Caprara–Salazar-González,false,false,18.545916
+45,39,42,0.9310638102925964,35,Varona HBR,true,,
+45,39,42,0.9310638102925964,35,Del Corso–Manzini,false,false,0.690083
+45,39,42,0.9310638102925964,35,Caprara–Salazar-González,false,false,18.201625
+45,39,41,0.8954898745758841,34,Varona HBR,true,,
+45,39,41,0.8954898745758841,34,Del Corso–Manzini,false,false,1.837708
+45,39,41,0.8954898745758841,34,Caprara–Salazar-González,false,false,58.083666
+45,39,42,0.8500671821646103,32,Varona HBR,true,,
+45,39,42,0.8500671821646103,32,Del Corso–Manzini,false,false,2.903375
+45,39,42,0.8500671821646103,32,Caprara–Salazar-González,false,false,95.068125
+45,39,42,0.9458725701667331,37,Varona HBR,true,,
+45,39,42,0.9458725701667331,37,Del Corso–Manzini,false,false,0.491333
+45,39,42,0.9458725701667331,37,Caprara–Salazar-González,false,false,9.857333
+45,39,41,0.9353218612417074,38,Varona HBR,true,,
+45,39,41,0.9353218612417074,38,Del Corso–Manzini,false,false,0.492417
+45,39,41,0.9353218612417074,38,Caprara–Salazar-González,false,false,13.045708
+45,41,43,0.9480313215509658,39,Varona HBR,false,false,215.786625
+45,41,43,0.9480313215509658,39,Del Corso–Manzini,false,false,0.691416
+45,41,43,0.9480313215509658,39,Caprara–Salazar-González,false,false,19.798791
+45,41,44,0.9317631758810401,38,Varona HBR,false,false,224.1055
+45,41,44,0.9317631758810401,38,Del Corso–Manzini,false,false,1.005833
+45,41,44,0.9317631758810401,38,Caprara–Salazar-González,false,false,31.346042
+45,41,42,0.9495005605406764,39,Varona HBR,false,false,214.463459
+45,41,42,0.9495005605406764,39,Del Corso–Manzini,false,false,0.735833
+45,41,42,0.9495005605406764,39,Caprara–Salazar-González,false,false,21.366125
+45,41,43,0.946329225572495,39,Varona HBR,false,false,225.289083
+45,41,43,0.946329225572495,39,Del Corso–Manzini,false,false,1.0085
+45,41,43,0.946329225572495,39,Caprara–Salazar-González,false,false,27.883375
+45,41,44,0.9455915348350992,38,Varona HBR,false,false,222.143917
+45,41,44,0.9455915348350992,38,Del Corso–Manzini,false,false,1.053416
+45,41,44,0.9455915348350992,38,Caprara–Salazar-González,false,false,27.829042
+50,44,47,0.9298130787782621,39,Varona HBR,true,,
+50,44,47,0.9298130787782621,39,Del Corso–Manzini,false,false,1.245209
+50,44,47,0.9298130787782621,39,Caprara–Salazar-González,false,false,36.846917
+50,44,46,0.9422807603149989,42,Varona HBR,true,,
+50,44,46,0.9422807603149989,42,Del Corso–Manzini,false,false,0.874708
+50,44,46,0.9422807603149989,42,Caprara–Salazar-González,false,false,25.996834
+50,44,47,0.894964281047164,40,Varona HBR,true,,
+50,44,47,0.894964281047164,40,Del Corso–Manzini,false,false,1.770458
+50,44,47,0.894964281047164,40,Caprara–Salazar-González,false,false,59.010041
+50,44,46,0.9135976165041662,41,Varona HBR,true,,
+50,44,46,0.9135976165041662,41,Del Corso–Manzini,false,false,1.928458
+50,44,46,0.9135976165041662,41,Caprara–Salazar-González,false,false,64.44375
+50,44,46,0.9429781951041932,38,Varona HBR,true,,
+50,44,46,0.9429781951041932,38,Del Corso–Manzini,false,false,0.848666
+50,44,46,0.9429781951041932,38,Caprara–Salazar-González,false,false,28.280375
+50,46,48,0.9476710442601599,44,Varona HBR,false,false,306.421667
+50,46,48,0.9476710442601599,44,Del Corso–Manzini,false,false,1.276209
+50,46,48,0.9476710442601599,44,Caprara–Salazar-González,false,false,45.042042
+50,46,49,0.9499102323074852,44,Varona HBR,false,false,301.2745
+50,46,49,0.9499102323074852,44,Del Corso–Manzini,false,false,1.157291
+50,46,49,0.9499102323074852,44,Caprara–Salazar-González,false,false,38.573041
+50,46,49,0.9484802808558565,43,Varona HBR,false,false,310.057584
+50,46,49,0.9484802808558565,43,Del Corso–Manzini,false,false,1.173208
+50,46,49,0.9484802808558565,43,Caprara–Salazar-González,false,false,38.730667
+50,46,49,0.9419349781489585,44,Varona HBR,false,false,307.873167
+50,46,49,0.9419349781489585,44,Del Corso–Manzini,false,false,1.549917
+50,46,49,0.9419349781489585,44,Caprara–Salazar-González,false,false,56.017334
+50,46,49,0.9485235383059492,44,Varona HBR,false,false,302.1275
+50,46,49,0.9485235383059492,44,Del Corso–Manzini,false,false,1.113625
+50,46,49,0.9485235383059492,44,Caprara–Salazar-González,false,false,38.742958
+55,49,52,0.896898234737507,44,Varona HBR,true,,
+55,49,52,0.896898234737507,44,Del Corso–Manzini,false,false,2.636333
+55,49,52,0.896898234737507,44,Caprara–Salazar-González,false,false,101.85125
+55,49,51,0.9376284734122989,44,Varona HBR,true,,
+55,49,51,0.9376284734122989,44,Del Corso–Manzini,false,false,1.416667
+55,49,51,0.9376284734122989,44,Caprara–Salazar-González,false,false,48.22375
+55,49,51,0.911525532756113,44,Varona HBR,true,,
+55,49,51,0.911525532756113,44,Del Corso–Manzini,false,false,2.684792
+55,49,51,0.911525532756113,44,Caprara–Salazar-González,false,false,107.092208
+55,49,52,0.9125026959708119,43,Varona HBR,true,,
+55,49,52,0.9125026959708119,43,Del Corso–Manzini,false,false,2.335792
+55,49,52,0.9125026959708119,43,Caprara–Salazar-González,false,false,90.755375
+55,49,52,0.9379071872409743,47,Varona HBR,true,,
+55,49,52,0.9379071872409743,47,Del Corso–Manzini,false,false,1.144375
+55,49,52,0.9379071872409743,47,Caprara–Salazar-González,false,false,33.725834
+55,51,54,0.9439894474057158,48,Varona HBR,false,false,470.164375
+55,51,54,0.9439894474057158,48,Del Corso–Manzini,false,false,2.062459
+55,51,54,0.9439894474057158,48,Caprara–Salazar-González,false,false,78.293375
+55,51,54,0.9489075688540319,49,Varona HBR,false,false,466.243709
+55,51,54,0.9489075688540319,49,Del Corso–Manzini,false,false,1.595
+55,51,54,0.9489075688540319,49,Caprara–Salazar-González,false,false,55.586625
+55,51,53,0.9396887544104473,49,Varona HBR,false,false,475.766167
+55,51,53,0.9396887544104473,49,Del Corso–Manzini,false,false,2.337208
+55,51,53,0.9396887544104473,49,Caprara–Salazar-González,false,false,88.850166
+55,51,52,0.946034520228315,49,Varona HBR,false,false,464.321167
+55,51,52,0.946034520228315,49,Del Corso–Manzini,false,false,1.659667
+55,51,52,0.946034520228315,49,Caprara–Salazar-González,false,false,63.784334
+55,51,52,0.9464700093210701,48,Varona HBR,false,false,469.543208
+55,51,52,0.9464700093210701,48,Del Corso–Manzini,false,false,1.653667
+55,51,52,0.9464700093210701,48,Caprara–Salazar-González,false,false,58.307375
