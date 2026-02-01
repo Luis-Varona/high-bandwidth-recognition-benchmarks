@@ -1,0 +1,81 @@
+n,k,psi,p,blb,algorithm,time_exceeded,band_le_k,time_ms
+12,6,9,0.8659630338156311,6,Varona HBR,false,false,52.8025
+12,6,9,0.8659630338156311,6,Saxe–Gurari–Sudborough,false,false,0.033084
+12,6,8,0.8599803009087783,6,Varona HBR,false,false,54.450875
+12,6,8,0.8599803009087783,6,Saxe–Gurari–Sudborough,false,false,0.037125
+12,6,7,0.8807601785498649,6,Varona HBR,false,false,54.367666
+12,6,7,0.8807601785498649,6,Saxe–Gurari–Sudborough,false,false,0.14975
+12,6,7,0.935843897546528,6,Varona HBR,false,false,53.445625
+12,6,7,0.935843897546528,6,Saxe–Gurari–Sudborough,false,false,0.033459
+12,6,7,0.9037202489535323,6,Varona HBR,false,false,54.492375
+12,6,7,0.9037202489535323,6,Saxe–Gurari–Sudborough,false,false,0.062417
+12,8,11,0.8920773083118398,7,Varona HBR,false,false,0.738666
+12,8,11,0.8920773083118398,7,Saxe–Gurari–Sudborough,false,false,81.519334
+12,8,10,0.9197540626489906,8,Varona HBR,false,false,0.735667
+12,8,10,0.9197540626489906,8,Saxe–Gurari–Sudborough,false,false,30.520375
+12,8,10,0.8726873250344991,8,Varona HBR,false,false,0.731167
+12,8,10,0.8726873250344991,8,Saxe–Gurari–Sudborough,false,false,5.587542
+12,8,11,0.914010979433274,8,Varona HBR,false,false,0.713583
+12,8,11,0.914010979433274,8,Saxe–Gurari–Sudborough,false,false,14.796708
+12,8,10,0.8545057525354927,8,Varona HBR,false,false,0.728833
+12,8,10,0.8545057525354927,8,Saxe–Gurari–Sudborough,false,false,3.940542
+14,8,9,0.9325723803127224,7,Varona HBR,false,false,181.371083
+14,8,9,0.9325723803127224,7,Saxe–Gurari–Sudborough,false,false,0.141083
+14,8,10,0.8502063562224127,8,Varona HBR,false,false,183.797041
+14,8,10,0.8502063562224127,8,Saxe–Gurari–Sudborough,false,false,1.263583
+14,8,10,0.8539172813214025,8,Varona HBR,false,false,179.905375
+14,8,10,0.8539172813214025,8,Saxe–Gurari–Sudborough,false,false,0.035083
+14,8,9,0.9264690427679435,7,Varona HBR,false,false,179.957917
+14,8,9,0.9264690427679435,7,Saxe–Gurari–Sudborough,false,false,0.099458
+14,8,10,0.9052021087153401,7,Varona HBR,false,false,178.108375
+14,8,10,0.9052021087153401,7,Saxe–Gurari–Sudborough,false,false,0.068917
+14,10,11,0.9006198195346329,7,Varona HBR,false,false,1.64375
+14,10,11,0.9006198195346329,7,Saxe–Gurari–Sudborough,false,false,17691.072791
+14,10,12,0.8591252866804433,10,Varona HBR,false,false,1.544958
+14,10,12,0.8591252866804433,10,Saxe–Gurari–Sudborough,false,false,4437.213208
+14,10,11,0.8505482832383067,8,Varona HBR,false,false,1.676084
+14,10,11,0.8505482832383067,8,Saxe–Gurari–Sudborough,true,,
+14,10,11,0.8670774588441386,9,Varona HBR,false,false,1.59525
+14,10,11,0.8670774588441386,9,Saxe–Gurari–Sudborough,false,false,11020.752
+14,10,13,0.8652558313448431,8,Varona HBR,false,false,1.6665
+14,10,13,0.8652558313448431,8,Saxe–Gurari–Sudborough,false,false,17504.138125
+16,10,13,0.9159597564770475,10,Varona HBR,false,false,523.177417
+16,10,13,0.9159597564770475,10,Saxe–Gurari–Sudborough,false,false,0.059958
+16,10,11,0.9098425957988803,9,Varona HBR,false,false,517.850375
+16,10,11,0.9098425957988803,9,Saxe–Gurari–Sudborough,false,false,1.942125
+16,10,11,0.9111888793087548,9,Varona HBR,false,false,521.129167
+16,10,11,0.9111888793087548,9,Saxe–Gurari–Sudborough,false,false,56.750666
+16,10,12,0.9019163013040403,10,Varona HBR,false,false,521.765208
+16,10,12,0.9019163013040403,10,Saxe–Gurari–Sudborough,false,false,0.0725
+16,10,13,0.8707339407722704,10,Varona HBR,false,false,526.315583
+16,10,13,0.8707339407722704,10,Saxe–Gurari–Sudborough,false,false,0.419
+16,12,14,0.8718715272014506,12,Varona HBR,false,false,2.835917
+16,12,14,0.8718715272014506,12,Saxe–Gurari–Sudborough,true,,
+16,12,15,0.9332128393628969,12,Varona HBR,false,false,2.707584
+16,12,15,0.9332128393628969,12,Saxe–Gurari–Sudborough,true,,
+16,12,13,0.8543640072477905,12,Varona HBR,false,false,2.887792
+16,12,13,0.8543640072477905,12,Saxe–Gurari–Sudborough,true,,
+16,12,14,0.8647712342948568,9,Varona HBR,false,false,2.897958
+16,12,14,0.8647712342948568,9,Saxe–Gurari–Sudborough,true,,
+16,12,14,0.8826719716046745,11,Varona HBR,false,false,2.942667
+16,12,14,0.8826719716046745,11,Saxe–Gurari–Sudborough,true,,
+18,12,15,0.8506858428221047,11,Varona HBR,false,false,1148.200917
+18,12,15,0.8506858428221047,11,Saxe–Gurari–Sudborough,false,false,137.7385
+18,12,13,0.8700236815243638,11,Varona HBR,false,false,1177.545334
+18,12,13,0.8700236815243638,11,Saxe–Gurari–Sudborough,true,,
+18,12,14,0.9461903528041137,11,Varona HBR,false,false,1133.583
+18,12,14,0.9461903528041137,11,Saxe–Gurari–Sudborough,false,false,0.15
+18,12,13,0.9195412948353366,11,Varona HBR,false,false,1129.425583
+18,12,13,0.9195412948353366,11,Saxe–Gurari–Sudborough,false,false,10746.880125
+18,12,14,0.9135718471627641,9,Varona HBR,false,false,1138.215459
+18,12,14,0.9135718471627641,9,Saxe–Gurari–Sudborough,false,false,241.547375
+18,14,16,0.9054511500017816,13,Varona HBR,false,false,4.411292
+18,14,16,0.9054511500017816,13,Saxe–Gurari–Sudborough,true,,
+18,14,17,0.948224140561269,13,Varona HBR,false,false,4.344542
+18,14,17,0.948224140561269,13,Saxe–Gurari–Sudborough,true,,
+18,14,17,0.9386605480807878,14,Varona HBR,false,false,4.37975
+18,14,17,0.9386605480807878,14,Saxe–Gurari–Sudborough,true,,
+18,14,17,0.9248055306035343,14,Varona HBR,false,false,4.458667
+18,14,17,0.9248055306035343,14,Saxe–Gurari–Sudborough,true,,
+18,14,17,0.9282561947298678,14,Varona HBR,false,false,4.410834
+18,14,17,0.9282561947298678,14,Saxe–Gurari–Sudborough,true,,
