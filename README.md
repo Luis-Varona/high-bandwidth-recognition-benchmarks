@@ -1,5 +1,7 @@
 # high-bandwidth-recognition-benchmarks
 
+[![DOI](https://zenodo.org/badge/1147102958.svg)](https://doi.org/10.5281/zenodo.18452752)
+
 Companion code for the paper "A polynomial-time algorithm for recognizing high-bandwidth graphs" by Luis M. B. Varona.
 
 ## How to run
